@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+.game {
+    width: 500px;
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+}
+
+#score {
+	width: 50%;
+	float: left;
+	text-align: left;
+	font-family: 'Arial', sans-serif;
+}
+
+#lives {
+	width: 50%;
+	float: left;
+	text-align: right;
+	font-family: 'Arial', sans-serif;
+}
