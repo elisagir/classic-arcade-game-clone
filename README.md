@@ -2,7 +2,7 @@
 Project #4 of the Udacity Front-End Nanodegree.
 ## How to run
  - Download ZIP file.
- - Open index.html file on your brower.
+ - Open index.html file on your browser.
 
 ## Goal
 Make it to the water line and win the game!
