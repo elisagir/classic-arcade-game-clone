@@ -1,6 +1,6 @@
 # **Udacity Classic Arcade Game Clone**
 Project #4 of the Udacity Front-End Nanodegree.
-## How to run
+## How to Run
  - Download ZIP file.
  - Open index.html file on your browser.
 
